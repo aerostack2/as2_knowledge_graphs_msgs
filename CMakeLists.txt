@@ -22,6 +22,8 @@ set(SRVS_FILES
   srv/CreateNode.srv
   srv/CreateEdge.srv
   srv/ReadGraph.srv
+  srv/ReadEdgeGraph.srv
+  srv/ReadProperty.srv
 )
 
 

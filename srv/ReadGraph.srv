@@ -1,3 +1,4 @@
-knowledge_graph_msgs/Node[] graph
+string node_name
+string node_class
 ---
-bool resultado
+knowledge_graph_msgs/Node[] nodes
